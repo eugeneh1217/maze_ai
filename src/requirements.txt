@@ -1,0 +1,5 @@
+tensorflow==1.15.3
+gym==0.17.2
+keras==2.3.1
+keras-rl==0.4.2
+protobuf==3.6.0
