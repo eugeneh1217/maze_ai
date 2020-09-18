@@ -3,4 +3,4 @@ Simple Python experiment to teach a reinforcement agent how to solve a simple ma
 
 # Info
 * Environment written with `gym` module
-* Machine Learning Algorithms and Agents created from `keras` and `keras-rl' modules
+* Machine Learning Algorithms and Agents created from `keras` and `keras-rl` modules
